@@ -23,6 +23,6 @@ Business Informatics student (B.Sc.) at the **University of Münster**, Germany,
 ### 💼 Open to opportunities
 I'm open to job offers, especially **working-student or part-time roles** in data, automation, e-commerce or AI tooling (Münster or remote).
 
-Outside of code: gym 🏋️, basketball, sneakers & trading cards.
+[LinkedIn](www.linkedin.com/in/jan-grosche-3450363a5)
 
 📫 Reach me via GitHub.
