@@ -16,6 +16,7 @@ Business Informatics student (B.Sc.) at the **University of Münster**, Germany,
 |---|---|
 | **[discord-bounty-bot](https://github.com/jan-grosche-debug/discord-bounty-bot)** | Zero-dependency Discord bot for reselling group-buy servers: its own WebSocket and Gateway layer, automatic margin calculation, atomic quantity reservation, private tickets, invoice detection. Built for a client |
 | **[checkout-engine-showcase](https://github.com/jan-grosche-debug/checkout-engine-showcase)** | Architecture of a checkout automation framework: mode library, per-phase latency measurement, "only confirmed orders count as success", with a local test shop |
+| **[retail-stock-monitors](https://github.com/jan-grosche-debug/retail-stock-monitors)** | In-store stock monitors for Galeria, Rossmann and Smyths Toys plus an online restock monitor for Shopify shops, with smart scheduling, change-only Discord alerts and a slash-command bot |
 | **[discord-bookkeeping-bot](https://github.com/jan-grosche-debug/discord-bookkeeping-bot)** | Complete bookkeeping for a small business via Discord slash commands: journal, inventory, PDF invoices, tax exports (Python) |
 | **[llm-second-brain](https://github.com/jan-grosche-debug/llm-second-brain)** | Template and scripts for an AI-maintained Markdown wiki: separate areas, change log, sources, conflicts flagged instead of overwritten |
 
